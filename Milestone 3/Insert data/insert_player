@@ -1,0 +1,12 @@
+INSERT INTO player (username, email, password, account_type, created_at)
+VALUES
+ ('slimeMaster','sm@demo.com','hashA','REGISTERED','2025-01-05 10:00:00'),
+ ('dinoKing','dk@demo.com','hashB','REGISTERED','2025-01-06 10:00:00'),
+ ('runner01','r1@demo.com','hashC','REGISTERED','2025-01-07 10:00:00'),
+ ('runner02','r2@demo.com','hashD','REGISTERED','2025-01-08 10:00:00'),
+ ('runner03','r3@demo.com','hashE','REGISTERED','2025-01-09 10:00:00'),
+ ('guest101',NULL,NULL,'GUEST','2025-01-10 10:00:00'),
+ ('guest102',NULL,NULL,'GUEST','2025-01-11 10:00:00'),
+ ('guest103',NULL,NULL,'GUEST','2025-01-12 10:00:00'),
+ ('guest104',NULL,NULL,'GUEST','2025-01-13 10:00:00'),
+ ('guest105',NULL,NULL,'GUEST','2025-01-14 10:00:00');

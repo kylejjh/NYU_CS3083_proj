@@ -1,0 +1,11 @@
+INSERT INTO skin (name, rarity, is_default) VALUES
+ ('Classic', 'common', 1),
+ ('Desert Runner', 'rare', 0),
+ ('Night Stalker', 'rare', 0),
+ ('Cyber Slime', 'epic', 0),
+ ('Forest Guard', 'common', 0),
+ ('Lava Beast', 'epic', 0),
+ ('Snow Scout', 'common', 0),
+ ('Golden King', 'legendary', 0),
+ ('Aero Swift', 'rare', 0),
+ ('Shadow Ninja', 'epic', 0);

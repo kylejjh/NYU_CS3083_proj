@@ -1,0 +1,11 @@
+INSERT INTO input_event (session_id, t_offset_ms, action, source) VALUES
+ (1,670,'JUMP','KEYBOARD'),
+ (2,500,'DUCK','KEYBOARD'),
+ (3,1000,'JUMP','KEYBOARD'),
+ (4,250,'JUMP','KEYBOARD'),
+ (5,600,'PAUSE','KEYBOARD'),
+ (6,650,'RESUME','KEYBOARD'),
+ (7,300,'JUMP','KEYBOARD'),
+ (8,700,'DUCK','KEYBOARD'),
+ (9,1200,'JUMP','KEYBOARD'),
+ (10,1010,'JUMP','KEYBOARD');

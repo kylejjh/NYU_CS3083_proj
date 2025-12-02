@@ -1,0 +1,11 @@
+INSERT INTO obstacle_type (name, altitude, width_px, height_px) VALUES
+ ('Cactus Small','GROUND',20,30),
+ ('Cactus Tall','GROUND',25,50),
+ ('Bird Low','AIR',35,25),
+ ('Bird High','AIR',35,25),
+ ('Rock','GROUND',30,20),
+ ('Pit','GROUND',50,1),
+ ('Boulder','GROUND',40,40),
+ ('UFO','AIR',45,20),
+ ('Fence','GROUND',30,25),
+ ('Drone','AIR',30,15);

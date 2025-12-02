@@ -1,0 +1,12 @@
+INSERT INTO achievement (name, description) VALUES
+ ('Marathon Runner','Run 1000m without collision'),
+ ('Speedster','Reach top speed >= 23.0'),
+ ('Survivor','Play 5 minutes without crashing'),
+ ('Perfect Jump','Jump over 5 consecutive obstacles'),
+ ('Night Owl','Play a run after 11pm'),
+ ('Collector','Own 5 different skins'),
+ ('Legendary Look','Use a legendary skin in a run'),
+ ('No Pause','Finish a run with no pauses'),
+ ('Air Master','Clear 5 AIR obstacles'),
+ ('Ground Crusher','Clear 5 GROUND obstacles');
+ 
